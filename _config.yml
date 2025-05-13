@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "... {Bradley Cantrell} ..."
+title                    : "... { } ..."
 title_separator          : "-"
 name                     : &name "Bradley Cantrell"
 description              : &description "personal description"
